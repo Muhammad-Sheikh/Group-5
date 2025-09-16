@@ -3,4 +3,4 @@ The students working in this group are as following.
 
 Muhammad Sheikh, Student #
 Thomas Li, Student #
-Pradyuna {LastNAME}, Student #
+Pradyumna Uppalapati, 300422792
